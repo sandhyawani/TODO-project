@@ -107,15 +107,6 @@ npm run dev
 * PUT /api/tasks/:id
 * DELETE /api/tasks/:id
 
-## Screenshots
-
-Add screenshots of:
-
-* Login Page
-* Registration Page
-* Dashboard
-* Task Management
-
 ## Future Enhancements
 
 * Task Categories
